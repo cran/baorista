@@ -1,6 +1,7 @@
-0fced0e412405cf3cd8f24d6173032a5 *DESCRIPTION
+77b2c1c3252b0c3b297f78f9f0244db4 *DESCRIPTION
 db1b35d8dc239d828064da34457119ba *NAMESPACE
-bcceb1e659f99a3cfb13fbc1398fac74 *R/createProbMat.R
+58c7ddb2a59dbba2254d5d5c09701a39 *NEWS.md
+770648d4b9ed5ec40ae66f4ad8b4834f *R/createProbMat.R
 027315f05694d35de3721cafc6be54fa *R/data.R
 27b6f5c3c5593a4b905324c6caa3c971 *R/expfit.R
 08a37d9ab294a0ae47f8094fdd8b051f *R/icarfit.R
@@ -11,13 +12,13 @@ bcceb1e659f99a3cfb13fbc1398fac74 *R/createProbMat.R
 5b6c41ea770406b855fae387d2d383ef *R/plotfittedLogistic.R
 cb380338b4f21f0da8b5ff253ed11ca9 *R/summary.R
 7ac7ec7ec2ab481d6be8ac870414a902 *R/utility.R
-96344e3a37c445fd670e2afc0d53b672 *README.md
+d6a6d42ef85c63d71a414dabc78d1d45 *README.md
 66c8f89f544c248dd00442344e20e9a7 *build/vignette.rds
 42c0afe843eb25db4898f7e9a165277a *data/sampledf.rda
 07127dfa6476ce84b5dbd92b4317c5e1 *data/samplemat.rda
 e2e4cd8e165c1d032030a65185251f14 *inst/CITATION
 6ced8fe63fd4c992a67eb13e589838f8 *inst/doc/using_baorista.Rmd
-a2f64b4522e79e435498567af5521a54 *inst/doc/using_baorista.html
+5f1dab8348fa2eb894d6dc6c9ae2e5a3 *inst/doc/using_baorista.html
 ffe22096b1606f87ca476ca5c6b78fa4 *man/createProbMat.Rd
 d57b3a4e607bc6ebceb17dab71c5995a *man/expfit.Rd
 f686b651440ed2f20f1b8fca989e9fc9 *man/icarfit.Rd
