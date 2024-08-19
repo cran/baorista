@@ -1,6 +1,6 @@
-e3c126f9ff888a0f36cf81e66e5129ff *DESCRIPTION
+973ad0e7c66bf9148b998a8693e54a92 *DESCRIPTION
 3b1c161c1143ed418a3d0952c49c0249 *NAMESPACE
-ff0eb11c1df6d12754bed5c17506d7fc *NEWS.md
+60a87858d24c548fbd482e73048385f7 *NEWS.md
 770648d4b9ed5ec40ae66f4ad8b4834f *R/createProbMat.R
 027315f05694d35de3721cafc6be54fa *R/data.R
 0ea79350f654a200e65bb8da9da05a7d *R/dexpfit.R
@@ -13,16 +13,16 @@ fd1a9b4d28670ad41000fca2f6350133 *R/plotfittedDExp.R
 802c61fb76575e557f2bff4c56e63c8e *R/plotfittedExp.R
 8ff621832453ef70858a023f4c8e5bf4 *R/plotfittedICAR.R
 29a5dc1c331487d2015b439fa9c1fa09 *R/plotfittedLogistic.R
-3f5abf2b0f91013c77776a84b3ab4bb0 *R/plotmcsim.R
+ad24402bc70e21d847308d8398db38c6 *R/plotmcsim.R
 cb380338b4f21f0da8b5ff253ed11ca9 *R/summary.R
 7ac7ec7ec2ab481d6be8ac870414a902 *R/utility.R
-147ee4cee311bfd02b8f35b7a851e3e4 *README.md
+4f98c225b284798907bd022a77858cad *README.md
 66c8f89f544c248dd00442344e20e9a7 *build/vignette.rds
 42c0afe843eb25db4898f7e9a165277a *data/sampledf.rda
 07127dfa6476ce84b5dbd92b4317c5e1 *data/samplemat.rda
 e2e4cd8e165c1d032030a65185251f14 *inst/CITATION
 6ced8fe63fd4c992a67eb13e589838f8 *inst/doc/using_baorista.Rmd
-8480f6b256b08e5ff1d85b7b9f87e080 *inst/doc/using_baorista.html
+365722a293f663fb28f3c1b904740521 *inst/doc/using_baorista.html
 ffe22096b1606f87ca476ca5c6b78fa4 *man/createProbMat.Rd
 27e69e19a972e46783d203da5bc76a60 *man/dexpfit.Rd
 f105fa23dded0eb581c1154f7415f5f3 *man/expfit.Rd
@@ -33,7 +33,7 @@ fdf97484695f26b0ef9fc7b5a1ef0484 *man/icarfit.Rd
 79ec8d83c0350c450ab3e02921d554be *man/plot.fittedExp.Rd
 9324de27d07ad1953b0650177148924f *man/plot.fittedICAR.Rd
 53167c5411e0148260602db632dd30b0 *man/plot.fittedLogistic.Rd
-5312ec63a24934e12dae0acb13eb0134 *man/plot.mcsimres.Rd
+d069710e5893fa53a6dbac1ff61b97ea *man/plot.mcsimres.Rd
 7cda1e670328091558d82e416c51da19 *man/plot.probMat.Rd
 e1c92120c44633d1eb2937dd5e056a6f *man/sampledf.Rd
 769c1a24dc6819c1249610cd270b63cf *man/samplemat.Rd
